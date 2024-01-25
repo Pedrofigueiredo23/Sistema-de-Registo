@@ -38,7 +38,7 @@ public class Main {
                     listaAlunos.add(aluno);
                 }
                 case 2 -> {
-                    System.out.println("Numero de alunos " + listaAlunos.size());
+                    System.out.println("Numero de alunos " + listaAlunos.size());//sghoidfhpodfih
                     for (Aluno listaAluno : listaAlunos) {
 
                         System.out.println("Informações do(s) aluno(s):");
